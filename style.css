@@ -1,0 +1,9 @@
+#check:checked ~ label #cover{
+    display:block;
+    }
+  #cover{
+    display:none;
+    }
+  #box{
+    border:10px solid white;
+    }
